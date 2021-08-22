@@ -150,15 +150,14 @@ h2.title {
 }
 
 .waiting .waiting_wrappper{
+	display: flex;
+	justify-content:space-around;
 	margin-top: 45px;
 }
 
 .waiting .waiting_wrappper .waiting_item {
-	display: inline-block;
-	vertical-align: top;
 	width: 342px;
 	text-align: center;
-	margin: 0 17px;
 }
 
 .waiting .waiting_wrappper .waiting_item .waiting_img {
