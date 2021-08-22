@@ -39,12 +39,11 @@ h1 {
 .title {
 	font-family: Roboto;
 	font-size: 41px;
-	line-height: 24px;
 	font-weight: 900;
+	line-height: 24px;
 	text-transform: uppercase;
 	color: #f9bf3b;
 	text-align: center;
-
 }
 
 h2.title {
@@ -63,8 +62,8 @@ h2.title {
 
 .promo .promo_text {
 	padding: 0 13px;
-	margin-top: 30px;
-	font-family: "Roboto Light";
+	margin-top: 23px;
+	font-family: Roboto;
 	font-size: 21px;
 	line-height: 28px;
 	font-weight: 300;
@@ -76,12 +75,13 @@ h2.title {
 .promo .promo_text span {
 	font-weight: 700;
 	color: #f9bf3b;
-	font-family: "Roboto - Bold";
+	font-family: Roboto;
 }
 
 .promo .promo_btn {
 	display: block;
-	margin: 69px auto;
+	margin: 0 auto;
+	margin-top: 69px;
 	width: 321px;
 	height: 80px;
 	background-image: linear-gradient(0.0deg, #2798b9 0%, #3ab6da 100%);
@@ -99,7 +99,7 @@ h2.title {
 }
 
 .next {
-	margin-top: 73px;
+	margin-top: 69px;
 }
 
 .next .next_text {
